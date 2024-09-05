@@ -4,10 +4,10 @@
         <show-axes>1</show-axes>
         <show-arrows>1</show-arrows>
         <show-label>1</show-label>
-        <xmin>-4.921517279822218</xmin>
-        <xmax>4.695503996773513</xmax>
-        <ymin>-0.7661355246804569</ymin>
-        <ymax>9.106204900851502</ymax>
+        <xmin>-4568.83520597493</xmin>
+        <xmax>10105.57470093985</xmax>
+        <ymin>-1623.533584306841</ymin>
+        <ymax>13440.46242633181</ymax>
     </axes>
     <grid color="#484848" width="0.10000000000000001">
         <mode>1</mode>
@@ -41,6 +41,36 @@
         </equation-0>
         <arg-min use="0">0</arg-min>
         <arg-max use="0">360</arg-max>
+    </function>
+    <function f0-color="#ff1493" f0-gradient="0;#000000,1;#ffffff," f0-show-extrema="0" f0-show-plot-name="0" f0-show-tangent-field="0" f0-style="SolidLine" f0-use-gradient="0" f0-visible="0" f0-width="0.29999999999999999" f1-color="#707041" f1-gradient="0;#000000,1;#ffffff," f1-show-extrema="0" f1-show-plot-name="0" f1-show-tangent-field="0" f1-style="SolidLine" f1-use-gradient="0" f1-visible="0" f1-width="0.29999999999999999" f2-color="#ade200" f2-gradient="0;#000000,1;#ffffff," f2-show-extrema="0" f2-show-plot-name="0" f2-show-tangent-field="0" f2-style="SolidLine" f2-use-gradient="0" f2-visible="0" f2-width="0.29999999999999999" integral-color="#16c703" integral-gradient="0;#000000,1;#ffffff," integral-show-extrema="0" integral-show-plot-name="0" integral-show-tangent-field="0" integral-style="SolidLine" integral-use-gradient="0" integral-visible="0" integral-width="0.29999999999999999" parameter-slider="0" type="cartesian" use-parameter-list="0" use-parameter-slider="0">
+        <equation-0 step="0.05">j(x) = 15.99x<differential x="0" y="1"/>
+        </equation-0>
+        <arg-min use="1">0</arg-min>
+        <arg-max use="0">360</arg-max>
+    </function>
+    <function f0-color="#b111dd" f0-gradient="0;#000000,1;#ffffff," f0-show-extrema="0" f0-show-plot-name="0" f0-show-tangent-field="0" f0-style="SolidLine" f0-use-gradient="0" f0-visible="0" f0-width="0.29999999999999999" f1-color="#4df7be" f1-gradient="0;#000000,1;#ffffff," f1-show-extrema="0" f1-show-plot-name="0" f1-show-tangent-field="0" f1-style="SolidLine" f1-use-gradient="0" f1-visible="0" f1-width="0.29999999999999999" f2-color="#35133f" f2-gradient="0;#000000,1;#ffffff," f2-show-extrema="0" f2-show-plot-name="0" f2-show-tangent-field="0" f2-style="SolidLine" f2-use-gradient="0" f2-visible="0" f2-width="0.29999999999999999" integral-color="#1b9e18" integral-gradient="0;#000000,1;#ffffff," integral-show-extrema="0" integral-show-plot-name="0" integral-show-tangent-field="0" integral-style="SolidLine" integral-use-gradient="0" integral-visible="0" integral-width="0.29999999999999999" parameter-slider="0" type="cartesian" use-parameter-list="0" use-parameter-slider="0">
+        <equation-0 step="0.05">k(x) = 7 + 2.50x <differential x="0" y="1"/>
+        </equation-0>
+        <arg-min use="1">0</arg-min>
+        <arg-max use="0">360</arg-max>
+    </function>
+    <function f0-color="#ff0000" f0-gradient="0;#000000,1;#ffffff," f0-show-extrema="0" f0-show-plot-name="0" f0-show-tangent-field="0" f0-style="SolidLine" f0-use-gradient="0" f0-visible="0" f0-width="0.29999999999999999" f1-color="#ebf667" f1-gradient="0;#000000,1;#ffffff," f1-show-extrema="0" f1-show-plot-name="0" f1-show-tangent-field="0" f1-style="SolidLine" f1-use-gradient="0" f1-visible="0" f1-width="0.29999999999999999" f2-color="#117e60" f2-gradient="0;#000000,1;#ffffff," f2-show-extrema="0" f2-show-plot-name="0" f2-show-tangent-field="0" f2-style="SolidLine" f2-use-gradient="0" f2-visible="0" f2-width="0.29999999999999999" integral-color="#e3e84d" integral-gradient="0;#000000,1;#ffffff," integral-show-extrema="0" integral-show-plot-name="0" integral-show-tangent-field="0" integral-style="SolidLine" integral-use-gradient="0" integral-visible="0" integral-width="0.29999999999999999" parameter-slider="0" type="cartesian" use-parameter-list="0" use-parameter-slider="0">
+        <equation-0 step="0.05">l(x) = 4.99+1x <differential x="0" y="1"/>
+        </equation-0>
+        <arg-min use="1">0</arg-min>
+        <arg-max use="0">360</arg-max>
+    </function>
+    <function f0-color="#0000cd" f0-gradient="0;#000000,1;#ffffff," f0-show-extrema="0" f0-show-plot-name="0" f0-show-tangent-field="0" f0-style="SolidLine" f0-use-gradient="0" f0-visible="0" f0-width="0.29999999999999999" f1-color="#f0e825" f1-gradient="0;#000000,1;#ffffff," f1-show-extrema="0" f1-show-plot-name="0" f1-show-tangent-field="0" f1-style="SolidLine" f1-use-gradient="0" f1-visible="0" f1-width="0.29999999999999999" f2-color="#d62fcd" f2-gradient="0;#000000,1;#ffffff," f2-show-extrema="0" f2-show-plot-name="0" f2-show-tangent-field="0" f2-style="SolidLine" f2-use-gradient="0" f2-visible="0" f2-width="0.29999999999999999" integral-color="#3c65b4" integral-gradient="0;#000000,1;#ffffff," integral-show-extrema="0" integral-show-plot-name="0" integral-show-tangent-field="0" integral-style="SolidLine" integral-use-gradient="0" integral-visible="0" integral-width="0.29999999999999999" parameter-slider="0" type="cartesian" use-parameter-list="0" use-parameter-slider="0">
+        <equation-0 step="0.05">m(x) = 59+0.05x <differential x="0" y="1"/>
+        </equation-0>
+        <arg-min use="0">0</arg-min>
+        <arg-max use="0">360</arg-max>
+    </function>
+    <function f0-color="#ff8c00" f0-gradient="0;#000000,1;#ffffff," f0-show-extrema="0" f0-show-plot-name="0" f0-show-tangent-field="0" f0-style="SolidLine" f0-use-gradient="0" f0-visible="1" f0-width="0.29999999999999999" f1-color="#d22e7c" f1-gradient="0;#000000,1;#ffffff," f1-show-extrema="0" f1-show-plot-name="0" f1-show-tangent-field="0" f1-style="SolidLine" f1-use-gradient="0" f1-visible="0" f1-width="0.29999999999999999" f2-color="#5e0fc4" f2-gradient="0;#000000,1;#ffffff," f2-show-extrema="0" f2-show-plot-name="0" f2-show-tangent-field="0" f2-style="SolidLine" f2-use-gradient="0" f2-visible="0" f2-width="0.29999999999999999" integral-color="#53623a" integral-gradient="0;#000000,1;#ffffff," integral-show-extrema="0" integral-show-plot-name="0" integral-show-tangent-field="0" integral-style="SolidLine" integral-use-gradient="0" integral-visible="0" integral-width="0.29999999999999999" parameter-slider="0" type="cartesian" use-parameter-list="0" use-parameter-slider="0">
+        <equation-0 step="0.05">n(x) = 10000−5x <differential x="0" y="1"/>
+        </equation-0>
+        <arg-min use="0">0</arg-min>
+        <arg-max use="0">11000</arg-max>
     </function>
     <fonts>
         <axes-font>DejaVu Sans</axes-font>

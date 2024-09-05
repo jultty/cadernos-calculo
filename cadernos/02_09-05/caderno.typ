@@ -146,3 +146,61 @@ Logo, a equação da reta é $y = x + 6$
 O coeficiente angular é também chamado de *taxa de variação* quando estamos diante de situações aplicadas.
 
 Ele representa o aumento constante ou a queda constante para cada aumento na variável independente.
+
+=== Exemplo 1
+
+Preço pago pelo kg do pão na padaria.
+
+
+$
+  P(x) = 15,99 x; x "em kg"
+$
+
+#image("img/taxa-de-variacao_exemplo01.png")
+
+=== Exemplo 2
+
+Táxi
+
+$
+  v(x) = 7 + 2,50 x
+$
+
+#image("img/taxa-de-variacao_exemplo02.png")
+
+=== Exemplo 3
+
+
+Comida pelo iFood no campus.
+
+$
+  P(x) = 4,99 + 1,00 x
+$
+
+#image("img/taxa-de-variacao_exemplo03.png")
+
+=== Exemplo 4
+
+Pagamento de um boleto em atraso
+
+$
+  V_0 &= R\$ " " 54,00 \
+  "multa" &= R\$ " " 5,00 \
+  "valor por dia de atraso" &= R\$ " " 0,05 \
+  \
+  V_1(t) &= 54 + 5 + 0,05 t
+  &= 59 + 0,05 t ; t "em dias"
+$
+
+#image("img/taxa-de-variacao_exemplo04.png")
+
+=== Exemplo 5
+
+$
+  V(t) = 10.000 - 5 t \
+  v = 0 \
+  t "em \"h\""
+  "v em \"L\""
+$
+
+#image("img/taxa-de-variacao_exemplo05.png")
