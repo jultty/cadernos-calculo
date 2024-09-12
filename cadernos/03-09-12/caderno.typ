@@ -264,3 +264,46 @@ $
 
 #image("img/exemplo-representacao-grafica.svg")
 
+== Resoluções de exercícios da lista 3 (Função Quadrática).
+=== 1.a
+
+$y = 3x^2 "  " D = [-1,1]$
+
+$
+  3x^2 &= 0 \
+  x_1 &= 0 \
+  x_2 &= 0 \
+  y &= a x^2 plus.minus c \
+  y &= x^2 = 4 = 0 \
+  x^2 &= -4
+$
+
+Vértice está no eixo $y$.
+
+$b = 0$
+
+#image("img/resolucao-lista-03_exercicio-1a.svg")
+
+
+=== 1.b
+
+$
+  y &= x^2 + x \
+  x^2 + x &= 0 \
+  x(x+1) &= 0 \
+  x_1 &= 0 \
+  x+1 &= 0 \
+  x_2 &= -1 \
+$
+
+=== 1.c
+
+$
+  y = -x^2 + 1 \
+  D = [0,2] \
+  P_1(0,1) \
+  b = 0 \
+$
+
+
+#image("img/resolucao-lista-03_exercicio-1c.png", width: 100%)
