@@ -10,6 +10,7 @@ Os arquivos de código fonte ou seus formatos editáveis equivalentes estão dis
 - [Aula 2: Função linear afim, lei da função e taxa de variação](cadernos/02_09-05)
 - [Aula 3: Função quadrática](cadernos/03_09-12)
 - [Aula 4: Função exponencial e logarítmica](cadernos/04_09-19)
+- [Aula 5: Ciclo e funções trigonométricos](cadernos/05_09-26)
 
 ## Softwares utilizados
 
