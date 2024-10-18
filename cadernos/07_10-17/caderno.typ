@@ -95,3 +95,47 @@ $
   &= lim(x->-3) 1/(x+1) = 1/(-3+1) = 1/2
 $
 
+1)
+
+#image("img/resolucao_01.svg")
+
+a) $ exists.not lim_(x->1) g(x) $
+
+$ lim_(x->1^-) g(x) = 1 $
+
+$ lim_(x->1^+) g(x) = 0 $
+
+d) $ lim_(x->2,5) g(x) = 0,5 $
+
+5)
+
+$
+  lim_(x->0) x/(|x|) \
+  \
+  |x| = cases(x", se " x _= 0, -x", se " x < 0) \
+  |5| = 5 \
+  |-2| = 2
+  \
+  x/(|x|) = cases(x/x = 1";" x > 0, x/(-x) = -1";" x < 0) \
+  \
+  #image("img/resolucao_05.svg")
+  \
+  lim_(x->0^-) x/(-|x|) = -1 \ lim_(x->0^+) x/(|x|) = +1 \
+$
+
+3)
+
+#image("img/resolucao_03.svg")
+
+a) $lim_(x->0) f(x)$ existe (V)
+
+b) $lim_(x->0) f(x) = 0$ (V)
+
+c) $lim_(x->0) f(x) = 1$ (F)
+
+d) $lim_(x->1) f(x) = 1$ (F)
+
+e) $lim_(x->1) f(x) = 0$ (F)
+
+f) $lim_(x->0) f(x)$ existe para todo $x in ]-1,1[$
+
