@@ -99,3 +99,70 @@ Usando-se a notação de Leibniz, temos $y = f(u)$ e $u = u(x)$
 $
   (d y)/(d x) = (d y)/(d u) dot.op (d u)/(d x)
 $
+
+= Derivada da "de fora e da função de dentro"
+
+Consiste em derivar a função externa (de fora) e multiplicar pela derivada da função interna (de dentr).
+
+== Exemplo
+
+Derive $sin ( x^2 + e^x)$
+
+$
+  [ sin (x^2 + e^x)] &= cos (x^2 + e^x) dot.op (2x + e^x) \
+                     &= (2x + e^x) dot.op cos(x^2+e^x)
+
+$
+
+= Resolução
+
+== 1
+
+$
+  y = 6 u - 9 => (d y)/(d u) = 6 \
+  u = 1/2 x^4 => (d u)/(d x) = 1/cancel(2) dot.op cancel(4)x^3 = 2x^3 \
+  (d y)/(d x) = (d y)/(d u) dot.op (d u)/(d x) = 6 dot.op 2x^3 = 12 x^3 \
+$
+
+== 9
+
+$
+  y = (2x + 1)^5 = u^5 => (d y)/(d u) = 5u^4 \
+  u = 2x+1 => (d u)/(d x) = 2 \
+  (d y)/(d x) = (d y)/(d u) dot.op (d u)/(d x) = 5u^4 dot.op 2 = 10 u^4 = 10 dot.op (2x+1)^4
+$
+
+=== Outro método
+
+$
+  y &= (2x + 1)^5 \
+  y' &= (d y)/(d x) = 5 dot.op (2x + 1)^4 dot.op 2 = 10 dot.op (2x+1)^4
+$
+
+== 10
+
+$
+  y &= (4 - 3x)^9 \
+  y' &= 9 dot.op (4 - 3x)^8 dot.op (-3) = -27 dot.op (4-3x)^8 \
+$
+
+== 15
+
+$
+  y = sec(tg x) => y' &= sec(tg x) dot.op tg(tg x) dot.op sec^2 x \
+    &= sec^2 x dot.op sec(tg x) dot.op tg(tg x)
+$
+
+== 17
+
+$
+  y &= sin^3 x = (sin x)^3 \
+  y' &= 3 dot.op (sin x)^2 dot.op cos x \
+     &= 3 dot.op cos x dot.op sin^2 x
+$
+
+== 19
+
+$
+  y = e^(-5x) => y' = e^(-5x) dot.op (-5) = -5e^(-5x)
+$
