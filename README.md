@@ -15,6 +15,7 @@ Os arquivos de código fonte ou seus formatos editáveis equivalentes estão dis
 - [Aula 7: Propriedades do Limite e Formas Indeterminadas](cadernos/07_10-17)
 - [Aula 8: Introdução à Derivada](cadernos/08_10-24)
 - [Aula 9: Regras de Derivação](cadernos/09_10-31)
+- [Aula 10: Funções Compostas](cadernos/10_11-07)
 
 ## Softwares utilizados
 
