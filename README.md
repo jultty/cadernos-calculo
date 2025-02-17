@@ -16,6 +16,8 @@ Os arquivos de código fonte ou seus formatos editáveis equivalentes estão dis
 - [Aula 8: Introdução à Derivada](cadernos/08_10-24)
 - [Aula 9: Regras de Derivação](cadernos/09_10-31)
 - [Aula 10: Funções Compostas](cadernos/10_11-07)
+- [Aula 11: Limite e Ponto Crítico](cadernos/11_11-14)
+- [Aula 12: Integral definida, antiderivada ou primitiva](cadernos/12_12-05)
 
 ## Softwares utilizados
 
